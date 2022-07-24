@@ -1,5 +1,4 @@
 # class-project-wrong-answer-test-1
-class-project-wrong-answer-test-1 created by GitHub Classroom
 
 CS 206 Advanced Software Testing and Analysis Project 
 
