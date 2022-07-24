@@ -1,0 +1,8 @@
+673<input/ct.36
+303<input/ct.6
+839<input/inp.hf.16
+7105<input/inp.hf.6
+985<input/inp.hf.14
+488<input/inp.hf.3
+010<input/inp.hf.8
+25<input/ft.20

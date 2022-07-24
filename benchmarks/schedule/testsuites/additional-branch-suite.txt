@@ -1,0 +1,7 @@
+673<input/ct.36
+063<input/ft.14
+1910<input/bdt.79
+25<input/ft.20
+072<input/adt.116
+199<input/bdt.27
+123<input/inp.hf.12

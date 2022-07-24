@@ -1,0 +1,5 @@
+015<input/inp.hf.14
+212<input/et.7
+25<input/ft.20
+10-3<input/zt.10
+000<input/nt.6

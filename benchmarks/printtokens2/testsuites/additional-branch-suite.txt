@@ -1,0 +1,4 @@
+one doesntliketwo
+inputs/uslin.416.noeof
+inputs/garbage/nothing
+< inputs/tst256

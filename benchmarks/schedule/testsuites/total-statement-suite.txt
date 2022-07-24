@@ -1,0 +1,3 @@
+839<input/inp.hf.16
+985<input/inp.hf.14
+25<input/ft.20

@@ -1,0 +1,7 @@
+015<input/inp.hf.14
+839<input/inp.hf.16
+213<input/dt.21
+121<input/dt.12
+142<input/bdt.35
+01-2<input/zt.13
+25<input/ft.20

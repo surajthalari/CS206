@@ -1,0 +1,4 @@
+123<input/inp.hf.12
+25<input/ft.20
+1079<input/ft.26
+10-3<input/zt.10

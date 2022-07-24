@@ -1,0 +1,8 @@
+004<input/adt.140
+000<input/tc.8
+997<input/inp.64
+616<input/lu128
+256<input/ft.30
+973<input/inp.56
+740<input/adt.113
+3<input/ft.1

@@ -1,0 +1,23 @@
+'@@?$' 'T/' < input/ruin.1109
+'%@@' '<' < input/ruin.1961
+'$[^a-c][9-B]'  < temp-test/222.inp.99.1
+'?p&y=3[Z]12345?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-12345612312345?123456-123456[a-c]?[^0-9]-[^9-B][a-c ][a-c]?[^0-9]-[^9-B][a-c]?[^0-9]-[^9-B][a-c][a-c]?[^0-9]-[^9-B][a-c]?[^0-9]-[^9-B][a-c][a-c]?[^0-9]-[^9-B][a-c]?[^0-9]-[^9-B][a-c][a-c]?[^0-9]-[^9-B][a-c]?[^0-9]-[^9-B][a-c-c][a-c]?' '~' < input/ruin.1338
+'-?[^a-c]??-@' '@%&a' < temp-test/360.inp.158.1
+'[^--' '&a@%' < temp-test/68.inp.29.3
+'%[a-z]*[1]**' '&alachamazoo@t@t@&&' < moni/rr4.t
+'[a-[^0-9]' '' < temp-test/841.inp.361.3
+< input/ruin.1401
+'[^0-9]-' 'NEW' < temp-test/1590.inp.677.2
+'?[a--][0-9]--[9-B][-z]?' 'a@nb@tc' < temp-test/2034.inp.863.1
+'[a-c]%[^9-B]' 'NEW' < temp-test/2333.inp.989.2
+'[^9-B]?' '@%@&' < temp-test/1554.inp.665.2
+'[^9-B][9-B]*$'  < temp-test/204.inp.91.2
+'@n*$' '.' < input/ruin.1999
+'^[9-B]^a-]-@[^a-c]' 'a&' < temp-test/778.inp.335.1
+'@@@@' '[V]s~wXx-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^M3af' < input/ruin.1342
+'%*' ' <+%@x-,=f$.L5#T(AD4Q@iix)H`Ce K,+UO#:wj,q7KJO@]d~.N,<'\''Hi73GN$Gl(HX1C' < input/ruin.328
+'[6-8@3]*' '&&@t&'  < moni/rr6.t
+'for this du the key thing is to have a ccl at exactly the right length more [@@]' 'sub doesnt matter' < moni/rr1.t
+'[^a-c]*?' 'a&' < temp-test/126.inp.59.1
+'*' 'J' < input/ruin.357
+'@n331*34[&*]&a%@**rlongstringdoesntmatt@t*t*t*tisbutmustbeverylongwhateverthecharactersaredon@@@ntteraslonga[\![estringistherightlengthandendswiththerightcharacterlkj45?1234ch$rcha[]acter]]illdojusttypingins[0-9]ars@nandsomeflags@n@t-12345612345?123456-@3@##filedoesntmatt&&eitherasitsneverprocessed&&@@45612345?123456-123456123455?123456-1234561234512345?123456-12345612345?123456-1234561234567890?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-123456[a-c-9]' '[0-9]substringdoesntmatter' < input/ruin.1338

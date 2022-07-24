@@ -1,0 +1,9 @@
+'@ta[0-9]**' 'a' < moni/f7.inp
+'[a-z]*' < moni/t2.inp
+'-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A-?-c*[0-9][a-c]-?A' 'NEW' < temp-test/1760.inp.748.3
+'-[^a-' 'a&' < temp-test/380.inp.165.2
+'[c-aA-GZ-a]^_`a]@@?' 'I8-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_DDe(Gk8G' < input/ruin.1050
+'[0-9]@nl[^6]inbetweend@t@n%%88*erwhatjustgettingvariety%$inthestr&& OK here[@@]' < moni/rr2.t
+< input/ruin.990
+'%A[0-9]?@**[a-c][^0-9]$' '@%&a' < temp-test/672.inp.292.11
+'?@[*?-]$' '@%&a@' < temp-test/353.inp.154.9

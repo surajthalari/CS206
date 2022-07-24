@@ -1,0 +1,10 @@
+4210<input/ft.1
+714<input/add.100
+543<input/dat075
+4103<input/inp.98
+798<input/inp.hf.11
+719<input/inp.hf.1
+10106<input/bdt.42
+23<input/bdt.77
+110<input/inp.hf.12
+279<input/ft.6

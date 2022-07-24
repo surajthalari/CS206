@@ -1,0 +1,8 @@
+949<input/lu199
+1092<input/lu338
+300<input/ct.4
+494<input/ft.15
+455<input/add.62
+1<input/ad.1
+-124<input/zt.3
+110<input/ad.2

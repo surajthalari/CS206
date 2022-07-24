@@ -1,0 +1,13 @@
+040<input/dat619
+441<input/tc.48
+335<input/dat616
+145<input/ct.40
+432<input/nnt8
+798<input/inp.hf.11
+862<input/bdt.35
+256<input/adt.55
+648<input/bdt.82
+25<input/ft.30
+2910<input/ft.9
+31-5<input/zt.1
+121<input/dt.12
